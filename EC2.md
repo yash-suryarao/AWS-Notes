@@ -1,6 +1,7 @@
 EC2 : Elastic Compute Cloud 
 
-Amazon Elastic Compute Cloud (Amazon EC2) provides scalable, on-demand virtual servers (called "instances") in the cloud, letting you rent computing power (CPU, memory, storage, networking) to run applications without buying physical hardware
+    Amazon Elastic Compute Cloud (Amazon EC2) provides scalable, on-demand virtual servers (called "instances") in the cloud, 
+    letting you rent computing power (CPU, memory, storage, networking) to run applications without buying physical hardware
 
 Features of Amazon EC2 /Key Concepts :
 
@@ -290,5 +291,6 @@ AWS offers a variety of pricing models to suit different business needs and use 
        - Less flexibility.
 
 Reference Link :https://aws.amazon.com/ec2/pricing/
+
 
 
