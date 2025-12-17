@@ -22,7 +22,7 @@ Features of Amazon EC2 /Key Concepts :
      Optimized, and Accelerated Computing.
     
     Key pairs:
-    Secure login information for your instances. 
+    It is a set of security credentials that verifies user's identity when connecting to EC2 instance.
     AWS stores the public key and you store the private key in a secure place.
     
     Instance store volumes:
@@ -291,6 +291,7 @@ AWS offers a variety of pricing models to suit different business needs and use 
        - Less flexibility.
 
 Reference Link :https://aws.amazon.com/ec2/pricing/
+
 
 
 
